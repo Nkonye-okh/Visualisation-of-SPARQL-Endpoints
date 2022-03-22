@@ -1,1 +1,1 @@
-# Visualisation-of-SPARQL-Endpoints
+# Visual Exploitation of SPARQL Endpoints

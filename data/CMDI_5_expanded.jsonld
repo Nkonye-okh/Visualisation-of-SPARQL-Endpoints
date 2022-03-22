@@ -1,0 +1,4944 @@
+[
+  {
+    "@id": "https://hdl.handle.net/11022/0000-0007-DABA-2",
+    "@type": [
+      "http://schema.org/DataSet",
+      "clarin.eu:cr1:p_1527668176123"
+    ],
+    "http://schema.org/accessMode": [
+      {
+        "@value": "written"
+      }
+    ],
+    "clarin.eu:cr1:c_1444726211575": [
+      {
+        "@type": [
+          "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+        ],
+        "clarin.eu:cr1:c_1442920133044": [
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1290431694486": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "http://hdl.handle.net/11459/CCR_C-2520_9eeedfb4-47d3-ddee-cfcb-99ac634bf1db": [
+                  {
+                    "@value": "Researcher in Moko Project."
+                  }
+                ]
+              }
+            ],
+            "clarin.eu:cr1:c_1447674760335": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "http://hdl.handle.net/11459/CCR_C-3807_1479532e-b741-f5d4-99f4-881c5908cfd9": [
+                  {
+                    "@value": "creator"
+                  }
+                ],
+                "http://hdl.handle.net/11459/CCR_C-6492_9d5f20aa-e6bd-c141-15df-ffdae159e5e1": [
+                  {
+                    "@value": "Strakatova"
+                  }
+                ],
+                "http://hdl.handle.net/11459/CCR_C-6493_e10ad1ee-82ac-c03f-a582-b14d5787576b": [
+                  {
+                    "@value": "Yana"
+                  }
+                ]
+              },
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "http://hdl.handle.net/11459/CCR_C-3807_1479532e-b741-f5d4-99f4-881c5908cfd9": [
+                  {
+                    "@value": "creator"
+                  }
+                ],
+                "http://hdl.handle.net/11459/CCR_C-6492_9d5f20aa-e6bd-c141-15df-ffdae159e5e1": [
+                  {
+                    "@value": "Fuhrmann"
+                  }
+                ],
+                "http://hdl.handle.net/11459/CCR_C-6493_e10ad1ee-82ac-c03f-a582-b14d5787576b": [
+                  {
+                    "@value": "Isabel"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "clarin.eu:cr1:c_1521028545541": [
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1521028545542": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "clarin.eu:cr1:c_1521028545543": [
+                  {
+                    "@type": [
+                      "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                    ],
+                    "clarin.eu:cr1:c_1444726211578": [
+                      {
+                        "@type": [
+                          "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                        ],
+                        "http://hdl.handle.net/11459/CCR_C-2453_1f0c3ea5-7966-ae11-d3c6-448424d4e6e8": [
+                          {
+                            "@value": "request required"
+                          }
+                        ]
+                      }
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2570_6f596a6d-4d5c-f336-d971-e61a310e2c8c": [
+                      {
+                        "@value": "Unknown"
+                      }
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2574_85e2b550-e877-599a-fb82-76812896f9da": [
+                      {
+                        "@value": "Unknown"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "clarin.eu:cr1:c_1444726211578": [
+      {
+        "@type": [
+          "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+        ],
+        "clarin.eu:cr1:c_1442920133041": [
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "http://hdl.handle.net/11459/CCR_C-2505_b61e249b-ac68-b40a-0f21-03a4a26e16b4": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "http://hdl.handle.net/11459/CCR_C-4375_67db972a-fc24-1e87-eae9-3a11f487633a": [
+                  {
+                    "@value": "Tübingen"
+                  }
+                ],
+                "http://hdl.handle.net/11459/CCR_C-6209_0499bf4d-d745-b1dd-cf48-4850fd4d3351": [
+                  {
+                    "@value": "Wilhelmstr. 19"
+                  }
+                ]
+              }
+            ],
+            "http://hdl.handle.net/11459/CCR_C-3807_1479532e-b741-f5d4-99f4-881c5908cfd9": [
+              {
+                "@value": "creator"
+              }
+            ]
+          }
+        ],
+        "http://hdl.handle.net/11459/CCR_C-2453_1f0c3ea5-7966-ae11-d3c6-448424d4e6e8": [
+          {
+            "@language": "en",
+            "@value": "public"
+          }
+        ],
+        "http://hdl.handle.net/11459/CCR_C-2457_45bbaa1a-7002-2ecd-ab9d-57a189f694a6": [
+          {
+            "@value": "CC-BY"
+          }
+        ],
+        "http://hdl.handle.net/11459/CCR_C-2967_c96c9be1-3655-28c8-2b1c-0c499309c87a": [
+          {
+            "@value": "download"
+          }
+        ]
+      }
+    ],
+    "clarin.eu:cr1:c_1470820607607": [
+      {
+        "@type": [
+          "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+        ],
+        "clarin.eu:cr1:c_1361876010673": [
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1450777779942": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "clarin.eu:cr1:c_1459844210452": [
+                  {
+                    "@type": [
+                      "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2580_6dfe4e09-1c61-9b24-98ad-16bb867860fe": [
+                      {
+                        "@value": "1195436"
+                      }
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2583_5f5cb491-1037-8d46-d685-ccebfc0233f7": [
+                      {
+                        "@value": "B"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1450777779942": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "clarin.eu:cr1:c_1459844210452": [
+                  {
+                    "@type": [
+                      "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2580_6dfe4e09-1c61-9b24-98ad-16bb867860fe": [
+                      {
+                        "@value": "132789"
+                      }
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2583_5f5cb491-1037-8d46-d685-ccebfc0233f7": [
+                      {
+                        "@value": "B"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1450777779942": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "clarin.eu:cr1:c_1459844210452": [
+                  {
+                    "@type": [
+                      "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2580_6dfe4e09-1c61-9b24-98ad-16bb867860fe": [
+                      {
+                        "@value": "135646"
+                      }
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2583_5f5cb491-1037-8d46-d685-ccebfc0233f7": [
+                      {
+                        "@value": "B"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1450777779942": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "clarin.eu:cr1:c_1459844210452": [
+                  {
+                    "@type": [
+                      "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2580_6dfe4e09-1c61-9b24-98ad-16bb867860fe": [
+                      {
+                        "@value": "1192852"
+                      }
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2583_5f5cb491-1037-8d46-d685-ccebfc0233f7": [
+                      {
+                        "@value": "B"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1450777779942": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "clarin.eu:cr1:c_1459844210452": [
+                  {
+                    "@type": [
+                      "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2580_6dfe4e09-1c61-9b24-98ad-16bb867860fe": [
+                      {
+                        "@value": "1200159"
+                      }
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2583_5f5cb491-1037-8d46-d685-ccebfc0233f7": [
+                      {
+                        "@value": "B"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1450777779942": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "clarin.eu:cr1:c_1459844210452": [
+                  {
+                    "@type": [
+                      "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2580_6dfe4e09-1c61-9b24-98ad-16bb867860fe": [
+                      {
+                        "@value": "1183275"
+                      }
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2583_5f5cb491-1037-8d46-d685-ccebfc0233f7": [
+                      {
+                        "@value": "B"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1450777779942": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "clarin.eu:cr1:c_1459844210452": [
+                  {
+                    "@type": [
+                      "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2580_6dfe4e09-1c61-9b24-98ad-16bb867860fe": [
+                      {
+                        "@value": "134469"
+                      }
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2583_5f5cb491-1037-8d46-d685-ccebfc0233f7": [
+                      {
+                        "@value": "B"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1450777779942": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "clarin.eu:cr1:c_1459844210452": [
+                  {
+                    "@type": [
+                      "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2580_6dfe4e09-1c61-9b24-98ad-16bb867860fe": [
+                      {
+                        "@value": "132043"
+                      }
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2583_5f5cb491-1037-8d46-d685-ccebfc0233f7": [
+                      {
+                        "@value": "B"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1450777779942": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "clarin.eu:cr1:c_1459844210452": [
+                  {
+                    "@type": [
+                      "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2580_6dfe4e09-1c61-9b24-98ad-16bb867860fe": [
+                      {
+                        "@value": "1192811"
+                      }
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2583_5f5cb491-1037-8d46-d685-ccebfc0233f7": [
+                      {
+                        "@value": "B"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1450777779942": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "clarin.eu:cr1:c_1459844210452": [
+                  {
+                    "@type": [
+                      "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2580_6dfe4e09-1c61-9b24-98ad-16bb867860fe": [
+                      {
+                        "@value": "132946"
+                      }
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2583_5f5cb491-1037-8d46-d685-ccebfc0233f7": [
+                      {
+                        "@value": "B"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1450777779942": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "clarin.eu:cr1:c_1459844210452": [
+                  {
+                    "@type": [
+                      "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2580_6dfe4e09-1c61-9b24-98ad-16bb867860fe": [
+                      {
+                        "@value": "94972"
+                      }
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2583_5f5cb491-1037-8d46-d685-ccebfc0233f7": [
+                      {
+                        "@value": "B"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1450777779942": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "clarin.eu:cr1:c_1459844210452": [
+                  {
+                    "@type": [
+                      "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2580_6dfe4e09-1c61-9b24-98ad-16bb867860fe": [
+                      {
+                        "@value": "133626"
+                      }
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2583_5f5cb491-1037-8d46-d685-ccebfc0233f7": [
+                      {
+                        "@value": "B"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1450777779942": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "clarin.eu:cr1:c_1459844210452": [
+                  {
+                    "@type": [
+                      "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2580_6dfe4e09-1c61-9b24-98ad-16bb867860fe": [
+                      {
+                        "@value": "1220648"
+                      }
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2583_5f5cb491-1037-8d46-d685-ccebfc0233f7": [
+                      {
+                        "@value": "B"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1450777779942": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "clarin.eu:cr1:c_1459844210452": [
+                  {
+                    "@type": [
+                      "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2580_6dfe4e09-1c61-9b24-98ad-16bb867860fe": [
+                      {
+                        "@value": "573012"
+                      }
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2583_5f5cb491-1037-8d46-d685-ccebfc0233f7": [
+                      {
+                        "@value": "B"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1450777779942": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "clarin.eu:cr1:c_1459844210452": [
+                  {
+                    "@type": [
+                      "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2580_6dfe4e09-1c61-9b24-98ad-16bb867860fe": [
+                      {
+                        "@value": "560986"
+                      }
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2583_5f5cb491-1037-8d46-d685-ccebfc0233f7": [
+                      {
+                        "@value": "B"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1450777779942": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "clarin.eu:cr1:c_1459844210452": [
+                  {
+                    "@type": [
+                      "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2580_6dfe4e09-1c61-9b24-98ad-16bb867860fe": [
+                      {
+                        "@value": "566893"
+                      }
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2583_5f5cb491-1037-8d46-d685-ccebfc0233f7": [
+                      {
+                        "@value": "B"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1450777779942": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "clarin.eu:cr1:c_1459844210452": [
+                  {
+                    "@type": [
+                      "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2580_6dfe4e09-1c61-9b24-98ad-16bb867860fe": [
+                      {
+                        "@value": "565878"
+                      }
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2583_5f5cb491-1037-8d46-d685-ccebfc0233f7": [
+                      {
+                        "@value": "B"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1450777779942": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "clarin.eu:cr1:c_1459844210452": [
+                  {
+                    "@type": [
+                      "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2580_6dfe4e09-1c61-9b24-98ad-16bb867860fe": [
+                      {
+                        "@value": "4962"
+                      }
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2583_5f5cb491-1037-8d46-d685-ccebfc0233f7": [
+                      {
+                        "@value": "B"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1450777779942": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "clarin.eu:cr1:c_1459844210452": [
+                  {
+                    "@type": [
+                      "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2580_6dfe4e09-1c61-9b24-98ad-16bb867860fe": [
+                      {
+                        "@value": "566436"
+                      }
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2583_5f5cb491-1037-8d46-d685-ccebfc0233f7": [
+                      {
+                        "@value": "B"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1450777779942": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "clarin.eu:cr1:c_1459844210452": [
+                  {
+                    "@type": [
+                      "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2580_6dfe4e09-1c61-9b24-98ad-16bb867860fe": [
+                      {
+                        "@value": "578531"
+                      }
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2583_5f5cb491-1037-8d46-d685-ccebfc0233f7": [
+                      {
+                        "@value": "B"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1450777779942": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "clarin.eu:cr1:c_1459844210452": [
+                  {
+                    "@type": [
+                      "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2580_6dfe4e09-1c61-9b24-98ad-16bb867860fe": [
+                      {
+                        "@value": "63916"
+                      }
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2583_5f5cb491-1037-8d46-d685-ccebfc0233f7": [
+                      {
+                        "@value": "B"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1450777779942": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "clarin.eu:cr1:c_1459844210452": [
+                  {
+                    "@type": [
+                      "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2580_6dfe4e09-1c61-9b24-98ad-16bb867860fe": [
+                      {
+                        "@value": "131364"
+                      }
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2583_5f5cb491-1037-8d46-d685-ccebfc0233f7": [
+                      {
+                        "@value": "B"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1450777779942": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "clarin.eu:cr1:c_1459844210452": [
+                  {
+                    "@type": [
+                      "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2580_6dfe4e09-1c61-9b24-98ad-16bb867860fe": [
+                      {
+                        "@value": "115615"
+                      }
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2583_5f5cb491-1037-8d46-d685-ccebfc0233f7": [
+                      {
+                        "@value": "B"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1450777779942": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "clarin.eu:cr1:c_1459844210452": [
+                  {
+                    "@type": [
+                      "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2580_6dfe4e09-1c61-9b24-98ad-16bb867860fe": [
+                      {
+                        "@value": "62227"
+                      }
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2583_5f5cb491-1037-8d46-d685-ccebfc0233f7": [
+                      {
+                        "@value": "B"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1450777779942": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "clarin.eu:cr1:c_1459844210452": [
+                  {
+                    "@type": [
+                      "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2580_6dfe4e09-1c61-9b24-98ad-16bb867860fe": [
+                      {
+                        "@value": "63283"
+                      }
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2583_5f5cb491-1037-8d46-d685-ccebfc0233f7": [
+                      {
+                        "@value": "B"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1450777779942": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "clarin.eu:cr1:c_1459844210452": [
+                  {
+                    "@type": [
+                      "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2580_6dfe4e09-1c61-9b24-98ad-16bb867860fe": [
+                      {
+                        "@value": "65216"
+                      }
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2583_5f5cb491-1037-8d46-d685-ccebfc0233f7": [
+                      {
+                        "@value": "B"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1450777779942": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "clarin.eu:cr1:c_1459844210452": [
+                  {
+                    "@type": [
+                      "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2580_6dfe4e09-1c61-9b24-98ad-16bb867860fe": [
+                      {
+                        "@value": "60376"
+                      }
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2583_5f5cb491-1037-8d46-d685-ccebfc0233f7": [
+                      {
+                        "@value": "B"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1450777779942": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "clarin.eu:cr1:c_1459844210452": [
+                  {
+                    "@type": [
+                      "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2580_6dfe4e09-1c61-9b24-98ad-16bb867860fe": [
+                      {
+                        "@value": "121248"
+                      }
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2583_5f5cb491-1037-8d46-d685-ccebfc0233f7": [
+                      {
+                        "@value": "B"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1450777779942": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "clarin.eu:cr1:c_1459844210452": [
+                  {
+                    "@type": [
+                      "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2580_6dfe4e09-1c61-9b24-98ad-16bb867860fe": [
+                      {
+                        "@value": "134963"
+                      }
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2583_5f5cb491-1037-8d46-d685-ccebfc0233f7": [
+                      {
+                        "@value": "B"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1450777779942": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "clarin.eu:cr1:c_1459844210452": [
+                  {
+                    "@type": [
+                      "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2580_6dfe4e09-1c61-9b24-98ad-16bb867860fe": [
+                      {
+                        "@value": "64030"
+                      }
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2583_5f5cb491-1037-8d46-d685-ccebfc0233f7": [
+                      {
+                        "@value": "B"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1450777779942": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "clarin.eu:cr1:c_1459844210452": [
+                  {
+                    "@type": [
+                      "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2580_6dfe4e09-1c61-9b24-98ad-16bb867860fe": [
+                      {
+                        "@value": "128000"
+                      }
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2583_5f5cb491-1037-8d46-d685-ccebfc0233f7": [
+                      {
+                        "@value": "B"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1450777779942": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "clarin.eu:cr1:c_1459844210452": [
+                  {
+                    "@type": [
+                      "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2580_6dfe4e09-1c61-9b24-98ad-16bb867860fe": [
+                      {
+                        "@value": "127082"
+                      }
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2583_5f5cb491-1037-8d46-d685-ccebfc0233f7": [
+                      {
+                        "@value": "B"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1450777779942": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "clarin.eu:cr1:c_1459844210452": [
+                  {
+                    "@type": [
+                      "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2580_6dfe4e09-1c61-9b24-98ad-16bb867860fe": [
+                      {
+                        "@value": "269138"
+                      }
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2583_5f5cb491-1037-8d46-d685-ccebfc0233f7": [
+                      {
+                        "@value": "B"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1450777779942": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "clarin.eu:cr1:c_1459844210452": [
+                  {
+                    "@type": [
+                      "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2580_6dfe4e09-1c61-9b24-98ad-16bb867860fe": [
+                      {
+                        "@value": "271042"
+                      }
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2583_5f5cb491-1037-8d46-d685-ccebfc0233f7": [
+                      {
+                        "@value": "B"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1450777779942": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "clarin.eu:cr1:c_1459844210452": [
+                  {
+                    "@type": [
+                      "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2580_6dfe4e09-1c61-9b24-98ad-16bb867860fe": [
+                      {
+                        "@value": "262892"
+                      }
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2583_5f5cb491-1037-8d46-d685-ccebfc0233f7": [
+                      {
+                        "@value": "B"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1450777779942": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "clarin.eu:cr1:c_1459844210452": [
+                  {
+                    "@type": [
+                      "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2580_6dfe4e09-1c61-9b24-98ad-16bb867860fe": [
+                      {
+                        "@value": "282202"
+                      }
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2583_5f5cb491-1037-8d46-d685-ccebfc0233f7": [
+                      {
+                        "@value": "B"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1450777779942": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "clarin.eu:cr1:c_1459844210452": [
+                  {
+                    "@type": [
+                      "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2580_6dfe4e09-1c61-9b24-98ad-16bb867860fe": [
+                      {
+                        "@value": "271920"
+                      }
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2583_5f5cb491-1037-8d46-d685-ccebfc0233f7": [
+                      {
+                        "@value": "B"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1450777779942": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "clarin.eu:cr1:c_1459844210452": [
+                  {
+                    "@type": [
+                      "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2580_6dfe4e09-1c61-9b24-98ad-16bb867860fe": [
+                      {
+                        "@value": "241226"
+                      }
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2583_5f5cb491-1037-8d46-d685-ccebfc0233f7": [
+                      {
+                        "@value": "B"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "clarin.eu:cr1:c_1527668176069": [
+      {
+        "@type": [
+          "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+        ],
+        "clarin.eu:cr1:c_1271859438116": [
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "http://hdl.handle.net/11459/CCR_C-2539_f831f74e-f8ca-4e29-bb02-eb6ca7ea3073": [
+              {
+                "@value": "2018"
+              }
+            ]
+          }
+        ],
+        "clarin.eu:cr1:c_1442920133047": [
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "http://hdl.handle.net/11459/CCR_C-5339_9632ff8d-1abc-bc9a-dd61-867598a01d8f": [
+              {
+                "@value": "Deutsche Forschungsgemeinschaft (DFG)"
+              }
+            ]
+          }
+        ],
+        "clarin.eu:cr1:c_1447674760335": [
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1444726211568": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "http://hdl.handle.net/11459/CCR_C-1845_97d455c9-2f4a-0f47-4d4a-ff60c2db2582": [
+                  {
+                    "http://hdl.handle.net/11459/CCR_C-1845_97d455c9-2f4a-0f47-4d4a-ff60c2db2582": [
+                      {
+                        "@value": "http://d-nb.info/gnd/143840657"
+                      }
+                    ]
+                  },
+                  {
+                    "http://hdl.handle.net/11459/CCR_C-1845_97d455c9-2f4a-0f47-4d4a-ff60c2db2582": [
+                      {
+                        "@value": "http://viaf.org/viaf/37069402"
+                      }
+                    ]
+                  },
+                  {
+                    "http://hdl.handle.net/11459/CCR_C-1845_97d455c9-2f4a-0f47-4d4a-ff60c2db2582": [
+                      {
+                        "@value": "http://isni.org/0000000118749683"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "http://hdl.handle.net/11459/CCR_C-3807_1479532e-b741-f5d4-99f4-881c5908cfd9": [
+              {
+                "@value": "Project leader"
+              }
+            ],
+            "http://hdl.handle.net/11459/CCR_C-6492_9d5f20aa-e6bd-c141-15df-ffdae159e5e1": [
+              {
+                "@value": "Hinrichs"
+              }
+            ],
+            "http://hdl.handle.net/11459/CCR_C-6493_e10ad1ee-82ac-c03f-a582-b14d5787576b": [
+              {
+                "@value": "Erhard"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1444726211568": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "http://hdl.handle.net/11459/CCR_C-1845_97d455c9-2f4a-0f47-4d4a-ff60c2db2582": [
+                  {
+                    "http://hdl.handle.net/11459/CCR_C-1845_97d455c9-2f4a-0f47-4d4a-ff60c2db2582": [
+                      {
+                        "@value": "http://d-nb.info/gnd/143840657"
+                      }
+                    ]
+                  },
+                  {
+                    "http://hdl.handle.net/11459/CCR_C-1845_97d455c9-2f4a-0f47-4d4a-ff60c2db2582": [
+                      {
+                        "@value": "http://viaf.org/viaf/37069402"
+                      }
+                    ]
+                  },
+                  {
+                    "http://hdl.handle.net/11459/CCR_C-1845_97d455c9-2f4a-0f47-4d4a-ff60c2db2582": [
+                      {
+                        "@value": "http://isni.org/0000000118749683"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "http://hdl.handle.net/11459/CCR_C-3807_1479532e-b741-f5d4-99f4-881c5908cfd9": [
+              {
+                "@value": "Project leader"
+              }
+            ],
+            "http://hdl.handle.net/11459/CCR_C-6492_9d5f20aa-e6bd-c141-15df-ffdae159e5e1": [
+              {
+                "@value": "Klein"
+              }
+            ],
+            "http://hdl.handle.net/11459/CCR_C-6493_e10ad1ee-82ac-c03f-a582-b14d5787576b": [
+              {
+                "@value": "Wolfgang"
+              }
+            ]
+          }
+        ],
+        "clarin.eu:cr1:c_1527668176006": [
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1290431694486": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "http://hdl.handle.net/11459/CCR_C-2520_9eeedfb4-47d3-ddee-cfcb-99ac634bf1db": [
+                  {
+                    "@language": "de",
+                    "@value": "Gegenstand des Projektes ist die lexikalisch-semantische Modellierung und Beschreibung unterschiedlicher Aspekte von Kollokationen. Die wesentlichen Forschungsfragen in diesem Projekt lauten: a) auf welche Weise und in welchem theoretischen Rahmen die lexikalisch-semantische Gruppierung von Kollokanten zu einer Kollokationsbasis gruppiert und beschrieben werden können; b) ob und in welcher Weise Kollokanten, die mehreren Kollokationsbasen auf einer paradigmatischen Achse gemeinsam sind, zu einer generalisierten Beschreibung dieser Kollokationsbasen beitragen können. Im Rahmen dieses Projekts werden die Meaning-Text Theorie von Igor Melauk, besonders die Lexikalischen Funktionen, und die Theorie des Generativen Lexikons von James Pustejovsky, besonders die Qualiarollen, als gemeinsamer Rahmen zusammengeführt. Es wird untersucht, ob eine angemessene Modellierung oben beschriebener Aspekte von Kollokationen mit einer Synthese der beiden genannten theoretischen Ansätze möglich ist. Ein zentrales Ergebnis des Projektes wird eine Handreichung für die Modellierung von Kollokationen mit den aus dem Übergreifenden theoretischen Rahmen abgeleiteten Beschreibungsmitteln sein."
+                  },
+                  {
+                    "@language": "en",
+                    "@value": "The project aims at modeling and describing lexical-semantic properties of collocations. The main research topics of the project are: a) how and according to which theoretical framework the lexical-semantic grouping of collocations can be performed and described; b) whether and how it is possible to group collocators by their semantic similarity and to compare and represent (sets of) collocations based on the semantic relatedness of their collocational bases. The research will draw on the “Meaning Text Theory”, which has been elaborated by Igor Mel’čuk and which provides the concept of “Lexical Function”, and on the theory of the “Generative Lexicon” by James Pustejovsky, providing the concept of “qualia structure”. The possibility of synthesizing the two theoretical frameworks to build an appropriate and adequate modelling of the described aspects of collocations will be investigated. A central outcome of the project will be a set of guidelines for modeling collocations based on the resulting specification of the cross-theoretical framework."
+                  }
+                ]
+              }
+            ],
+            "http://hdl.handle.net/11459/CCR_C-2546_180dca37-c1d8-dffe-5d46-8f16de143320": [
+              {
+                "@value": "https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/"
+              }
+            ],
+            "http://hdl.handle.net/11459/CCR_C-2979_8030473e-bbcb-6b87-3fd2-90554429ec50": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "clarin.eu:cr1:c_1444726211568": [
+                  {
+                    "@type": [
+                      "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-1845_97d455c9-2f4a-0f47-4d4a-ff60c2db2582": [
+                      {
+                        "http://hdl.handle.net/11459/CCR_C-1845_97d455c9-2f4a-0f47-4d4a-ff60c2db2582": [
+                          {
+                            "@value": "http://viaf.org/viaf/155435537"
+                          }
+                        ]
+                      },
+                      {
+                        "http://hdl.handle.net/11459/CCR_C-1845_97d455c9-2f4a-0f47-4d4a-ff60c2db2582": [
+                          {
+                            "@value": "http://d-nb.info/gnd/36187-2"
+                          }
+                        ]
+                      },
+                      {
+                        "http://hdl.handle.net/11459/CCR_C-1845_97d455c9-2f4a-0f47-4d4a-ff60c2db2582": [
+                          {
+                            "@value": "http://isni.org/isni/0000000121901447"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "http://hdl.handle.net/11459/CCR_C-3812_ce466764-27ab-b97b-a0bb-d7ac23ad9e60": [
+              {
+                "@language": "de",
+                "@value": "Seminar für Sprachwissenschaft - Allgemeine Sprachwissenschaft und Computerlinguistik"
+              },
+              {
+                "@language": "en",
+                "@value": "Seminar für Sprachwissenschaft - General and Computational Linguistics"
+              }
+            ]
+          }
+        ],
+        "http://hdl.handle.net/11459/CCR_C-2535_a4f0e587-455a-ef40-c129-9f605e4c8fad": [
+          {
+            "@value": "75650358"
+          }
+        ],
+        "http://hdl.handle.net/11459/CCR_C-2536_13fc5f10-c14a-1f64-a669-32736f6d3ef5": [
+          {
+            "@value": "MoKo"
+          }
+        ],
+        "http://hdl.handle.net/11459/CCR_C-2537_fa206273-223a-f4fa-dde3-ba59b965701f": [
+          {
+            "@language": "de",
+            "@value": "MoKo: Modellierung lexikalisch-semantischer Beziehungen von Kollokationen"
+          },
+          {
+            "@language": "en",
+            "@value": "Corpus-based Semantic Composition Models for Phrases"
+          }
+        ],
+        "http://hdl.handle.net/11459/CCR_C-2546_180dca37-c1d8-dffe-5d46-8f16de143320": [
+          {
+            "@value": "https://uni-tuebingen.de/en/135214#c673123"
+          }
+        ]
+      }
+    ],
+    "clarin.eu:cr1:c_1527668176118": [
+      {
+        "@type": [
+          "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+        ],
+        "clarin.eu:cr1:c_1450777779941": [
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1357720977479": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "clarin.eu:cr1:c_1271859438111": [
+                  {
+                    "@type": [
+                      "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                    ],
+                    "clarin.eu:cr1:c_1271859438110": [
+                      {
+                        "@type": [
+                          "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                        ],
+                        "http://hdl.handle.net/11459/CCR_C-2482_08eded24-4086-7e3f-88e5-e0807fb01e17": [
+                          {
+                            "@value": "deu"
+                          }
+                        ]
+                      }
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-2484_669684e7-cb9e-ea96-59cb-a25fe89b9b9d": [
+                      {
+                        "@language": "en",
+                        "@value": "German"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "http://hdl.handle.net/11459/CCR_C-2491_e2d90ef0-a2e9-c101-6d35-bf25fc29f901": [
+              {
+                "@value": "1"
+              }
+            ]
+          }
+        ],
+        "clarin.eu:cr1:c_1466690369343": [
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1466690369344": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "http://hdl.handle.net/11459/CCR_C-2580_6dfe4e09-1c61-9b24-98ad-16bb867860fe": [
+                  {
+                    "@value": "4732"
+                  }
+                ],
+                "http://hdl.handle.net/11459/CCR_C-2583_5f5cb491-1037-8d46-d685-ccebfc0233f7": [
+                  {
+                    "@value": "phrases"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "clarin.eu:cr1:c_1548239945771": [
+      {
+        "@type": [
+          "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+        ],
+        "clarin.eu:cr1:c_1444726211572": [
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1290431694486": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "http://hdl.handle.net/11459/CCR_C-2520_9eeedfb4-47d3-ddee-cfcb-99ac634bf1db": [
+                  {
+                    "@language": "en",
+                    "@value": "We present a dataset of adjective-noun collocations for German, such as \"alter Freund}\" (old friend) and \"tiefe Liebe\" (deep love). The annotation has been performed by experts based on the annotation scheme introduced in this paper and yields substantial inter-annotator agreement. The resulting dataset contains 4,732 positive and negative instances of collocations and covers all the semantic classes of adjectives as defined in the German wordnet GermaNet. The dataset can serve as a reliable empirical basis for comparing different theoretical frameworks concerned with collocations or as material for investigation and validation of different vector-based representations of words. This paper addresses the latter issue and reports on the results of several machine learning experiments in which we compare lexical association measures with static and contextualized word embeddings in the task of automatic detection of non-prototypical adjectival meaning."
+                  }
+                ]
+              }
+            ],
+            "clarin.eu:cr1:c_1444726211573": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "http://hdl.handle.net/11459/CCR_C-6492_9d5f20aa-e6bd-c141-15df-ffdae159e5e1": [
+                  {
+                    "@value": "Strakatova"
+                  }
+                ],
+                "http://hdl.handle.net/11459/CCR_C-6493_e10ad1ee-82ac-c03f-a582-b14d5787576b": [
+                  {
+                    "@value": "Yana"
+                  }
+                ]
+              },
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "http://hdl.handle.net/11459/CCR_C-6492_9d5f20aa-e6bd-c141-15df-ffdae159e5e1": [
+                  {
+                    "@value": "Falk"
+                  }
+                ],
+                "http://hdl.handle.net/11459/CCR_C-6493_e10ad1ee-82ac-c03f-a582-b14d5787576b": [
+                  {
+                    "@value": "Neele"
+                  }
+                ]
+              },
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "http://hdl.handle.net/11459/CCR_C-6492_9d5f20aa-e6bd-c141-15df-ffdae159e5e1": [
+                  {
+                    "@value": "Fuhrmann"
+                  }
+                ],
+                "http://hdl.handle.net/11459/CCR_C-6493_e10ad1ee-82ac-c03f-a582-b14d5787576b": [
+                  {
+                    "@value": "Isabel"
+                  }
+                ]
+              },
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "http://hdl.handle.net/11459/CCR_C-6492_9d5f20aa-e6bd-c141-15df-ffdae159e5e1": [
+                  {
+                    "@value": "Rossmann"
+                  }
+                ],
+                "http://hdl.handle.net/11459/CCR_C-6493_e10ad1ee-82ac-c03f-a582-b14d5787576b": [
+                  {
+                    "@value": "Daniela"
+                  }
+                ]
+              },
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "clarin.eu:cr1:c_1444726211568": [
+                  {
+                    "@type": [
+                      "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                    ],
+                    "http://hdl.handle.net/11459/CCR_C-1845_97d455c9-2f4a-0f47-4d4a-ff60c2db2582": [
+                      {
+                        "@value": "http://viaf.org/viaf/37069402"
+                      }
+                    ]
+                  }
+                ],
+                "http://hdl.handle.net/11459/CCR_C-6492_9d5f20aa-e6bd-c141-15df-ffdae159e5e1": [
+                  {
+                    "@value": "Hinrichs"
+                  }
+                ],
+                "http://hdl.handle.net/11459/CCR_C-6493_e10ad1ee-82ac-c03f-a582-b14d5787576b": [
+                  {
+                    "@value": "Erhard"
+                  }
+                ]
+              }
+            ],
+            "http://purl.org/dc/terms/title": [
+              {
+                "@language": "en",
+                "@value": "All That Glitters is Not Gold: A Gold Standard of Adjective-Noun Collocations for German"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "clarin.eu:cr1:c_1562754657342": [
+      {
+        "@type": [
+          "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+        ],
+        "clarin.eu:cr1:c_1290431694486": [
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "http://hdl.handle.net/11459/CCR_C-2520_9eeedfb4-47d3-ddee-cfcb-99ac634bf1db": [
+              {
+                "@language": "en",
+                "@value": "The dataset contains 4732 adjective-noun pairs extracted from the DWDS corpora [1] with the application Wortprofil [2]. All the phrases have been annotated by two experts as collocations vs non-collocations. The non-collocations have been further classified by one of the annotators as free phrases, idioms, named entities, and terms. If you want to use this dataset for research purposes, please refer to the following paper: Yana Strakatova, Neele Falk, Isabel Fuhrmann, Daniela Rossmann, Erhard Hinrichs. All That Glitters is Not Gold: A Gold Standard of Adjective-Noun Collocations for German. 2019. References: [1]: DWDS – Digitales Wörterbuch der deutschen Sprache. Das Wortauskunftssystem zur deutschen Sprache in Geschichte und Gegenwart, hrsg. v. d. Berlin-Brandenburgischen Akademie der Wissenschaften. [2]: DWDS-Wortprofil, erstellt durch das Digitale Wörterbuch der deutschen Sprache."
+              }
+            ]
+          }
+        ],
+        "clarin.eu:cr1:c_1342181139653": [
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "http://hdl.handle.net/11459/CCR_C-5436_6ab57c2c-5f8d-3561-6db6-d75da23d2637": [
+              {
+                "@language": "en",
+                "@value": "German adjective-noun phrases"
+              },
+              {
+                "@language": "en",
+                "@value": "lexical semantics"
+              },
+              {
+                "@language": "en",
+                "@value": "collocations"
+              }
+            ]
+          }
+        ],
+        "clarin.eu:cr1:c_1450777779938": [
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "http://hdl.handle.net/11459/CCR_C-2490_44bc38a3-1799-4149-c791-40ac0176f0ff": [
+              {
+                "@value": "written"
+              }
+            ]
+          }
+        ],
+        "clarin.eu:cr1:c_1527668176120": [
+          {
+            "@type": [
+              "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+            ],
+            "clarin.eu:cr1:c_1290431694493": [
+              {
+                "@type": [
+                  "https://catalog.clarin.eu/ds/ComponentRegistry/#/"
+                ],
+                "http://hdl.handle.net/11459/CCR_C-2092_36cd7ca8-e412-9f29-7ea7-4a3ba4ba2c91": [
+                  {
+                    "@value": "DE"
+                  }
+                ],
+                "http://hdl.handle.net/11459/CCR_C-3792_68c770a4-d58c-46dd-d429-5609ce5f81c3": [
+                  {
+                    "@language": "de",
+                    "@value": "Deutschland"
+                  }
+                ]
+              }
+            ],
+            "http://hdl.handle.net/11459/CCR_C-2505_b61e249b-ac68-b40a-0f21-03a4a26e16b4": [
+              {
+                "@value": "Seminar für Sprachwissenschaft, Wilhelmstr. 19, D-72074 Tübingen"
+              }
+            ]
+          }
+        ],
+        "http://hdl.handle.net/11459/CCR_C-2509_3b86afe2-ebde-ba09-8a1c-fe6bdc46a739": [
+          {
+            "@value": "2019"
+          }
+        ],
+        "http://hdl.handle.net/11459/CCR_C-2526_979ac535-eaa5-5e59-3cad-51c450234698": [
+          {
+            "@value": "November 2019"
+          }
+        ],
+        "http://hdl.handle.net/11459/CCR_C-2538_8b697452-7ef3-9fce-ccf9-a7f344f11317": [
+          {
+            "@value": "November 2019"
+          }
+        ],
+        "http://hdl.handle.net/11459/CCR_C-2539_f831f74e-f8ca-4e29-bb02-eb6ca7ea3073": [
+          {
+            "@value": "2018"
+          }
+        ],
+        "http://hdl.handle.net/11459/CCR_C-2544_3626545e-a21d-058c-ebfd-241c0464e7e5": [
+          {
+            "@language": "en",
+            "@value": "GerCo_dataset"
+          }
+        ],
+        "http://hdl.handle.net/11459/CCR_C-2545_d873f2ab-2a2f-29d6-a9ab-260cde57f227": [
+          {
+            "@language": "en",
+            "@value": "GerCo: German Adjective-Noun Collocations Dataset"
+          }
+        ],
+        "http://hdl.handle.net/11459/CCR_C-2547_7883d382-b3ce-8ab4-7052-0138525a8ba1": [
+          {
+            "@language": "en",
+            "@value": "1"
+          }
+        ],
+        "http://hdl.handle.net/11459/CCR_C-3796_e89bb008-3e2e-1f70-afa5-e506a6c12683": [
+          {
+            "@value": "Computational Linguistics"
+          }
+        ],
+        "http://hdl.handle.net/11459/CCR_C-3806_e55e9ed6-b099-c21d-a634-3c7f4d22a215": [
+          {
+            "@value": "Lexicon"
+          }
+        ],
+        "http://hdl.handle.net/11459/CCR_C-3818_8c4aec73-1654-7565-9575-c4a17425ee29": [
+          {
+            "@value": "development"
+          }
+        ]
+      }
+    ],
+    "http://schema.org/conditionsOfAccess": [
+      {
+        "@value": "request required"
+      },
+      {
+        "@language": "en",
+        "@value": "public"
+      }
+    ],
+    "http://schema.org/creativeWorkStatus": [
+      {
+        "@value": "development"
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://viaf.org/viaf/155435537",
+        "@type": [
+          "http://schema.org/Organization"
+        ],
+        "http://schema.org/name": [
+          {
+            "@value": "Eberhard Karls Universität Tübingen"
+          }
+        ],
+        "http://schema.org/sameAs": [
+          {
+            "@id": "http://viaf.org/viaf/155435537"
+          },
+          {
+            "@id": "http://d-nb.info/gnd/36187-2"
+          },
+          {
+            "@id": "http://isni.org/isni/0000000121901447"
+          }
+        ]
+      },
+      {
+        "@type": [
+          "http://schema.org/Person"
+        ],
+        "http://schema.org/familyName": [
+          {
+            "@value": "Strakatova"
+          }
+        ],
+        "http://schema.org/givenName": [
+          {
+            "@value": "Yana"
+          }
+        ]
+      },
+      {
+        "@type": [
+          "http://schema.org/Person"
+        ],
+        "http://schema.org/familyName": [
+          {
+            "@value": "Fuhrmann"
+          }
+        ],
+        "http://schema.org/givenName": [
+          {
+            "@value": "Isabel"
+          }
+        ]
+      }
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "November 2019"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "The dataset contains 4732 adjective-noun pairs extracted from the DWDS corpora [1] with the application Wortprofil [2]. All the phrases have been annotated by two experts as collocations vs non-collocations. The non-collocations have been further classified by one of the annotators as free phrases, idioms, named entities, and terms. If you want to use this dataset for research purposes, please refer to the following paper: Yana Strakatova, Neele Falk, Isabel Fuhrmann, Daniela Rossmann, Erhard Hinrichs. All That Glitters is Not Gold: A Gold Standard of Adjective-Noun Collocations for German. 2019. References: [1]: DWDS – Digitales Wörterbuch der deutschen Sprache. Das Wortauskunftssystem zur deutschen Sprache in Geschichte und Gegenwart, hrsg. v. d. Berlin-Brandenburgischen Akademie der Wissenschaften. [2]: DWDS-Wortprofil, erstellt durch das Digitale Wörterbuch der deutschen Sprache."
+      }
+    ],
+    "http://schema.org/distribution": [
+      {
+        "@type": [
+          "http://schema.org/DataDownload"
+        ],
+        "http://schema.org/contentSize": [
+          {
+            "@value": "1195436"
+          }
+        ],
+        "http://schema.org/contentUrl": [
+          {
+            "@id": "https://hdl.handle.net/11022/0000-0007-DABA-2@AM_train_split_0.txt"
+          }
+        ],
+        "http://schema.org/encodingFormat": [
+          {
+            "@value": "text/plain"
+          }
+        ],
+        "http://schema.org/identifier": [
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "md5: b959b635d812f9602d406c38b11caf2c "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "md5"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "b959b635d812f9602d406c38b11caf2c"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha1: "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha1"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha256: 0ed889a27619f26164fea82319a20d2114390689 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha256"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "0ed889a27619f26164fea82319a20d2114390689"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@type": [
+          "http://schema.org/DataDownload"
+        ],
+        "http://schema.org/contentSize": [
+          {
+            "@value": "132789"
+          }
+        ],
+        "http://schema.org/contentUrl": [
+          {
+            "@id": "https://hdl.handle.net/11022/0000-0007-DABA-2@AM_dev_split_5.txt"
+          }
+        ],
+        "http://schema.org/encodingFormat": [
+          {
+            "@value": "text/plain"
+          }
+        ],
+        "http://schema.org/identifier": [
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "md5: 31cd8693eeaef24080d270ff247267d4 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "md5"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "31cd8693eeaef24080d270ff247267d4"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha1: "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha1"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha256: 932fdd39b6adaad16f4e9bf2395966e5bb42fa0b "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha256"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "932fdd39b6adaad16f4e9bf2395966e5bb42fa0b"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@type": [
+          "http://schema.org/DataDownload"
+        ],
+        "http://schema.org/contentSize": [
+          {
+            "@value": "135646"
+          }
+        ],
+        "http://schema.org/contentUrl": [
+          {
+            "@id": "https://hdl.handle.net/11022/0000-0007-DABA-2@AM_dev_split_4.txt"
+          }
+        ],
+        "http://schema.org/encodingFormat": [
+          {
+            "@value": "text/plain"
+          }
+        ],
+        "http://schema.org/identifier": [
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "md5: 41e2fc72fcd8af92bde77940eb26b68a "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "md5"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "41e2fc72fcd8af92bde77940eb26b68a"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha1: "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha1"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha256: aec76163c6f301bcfc99ac704e2d076deddc01ac "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha256"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "aec76163c6f301bcfc99ac704e2d076deddc01ac"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@type": [
+          "http://schema.org/DataDownload"
+        ],
+        "http://schema.org/contentSize": [
+          {
+            "@value": "1192852"
+          }
+        ],
+        "http://schema.org/contentUrl": [
+          {
+            "@id": "https://hdl.handle.net/11022/0000-0007-DABA-2@AM_train_split_1.txt"
+          }
+        ],
+        "http://schema.org/encodingFormat": [
+          {
+            "@value": "text/plain"
+          }
+        ],
+        "http://schema.org/identifier": [
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "md5: 59cded7fda02cc8092285fdb3a159789 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "md5"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "59cded7fda02cc8092285fdb3a159789"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha1: "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha1"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha256: 284510e1d2a5f047bce6646c4bd0a55db83a15ba "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha256"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "284510e1d2a5f047bce6646c4bd0a55db83a15ba"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@type": [
+          "http://schema.org/DataDownload"
+        ],
+        "http://schema.org/contentSize": [
+          {
+            "@value": "1200159"
+          }
+        ],
+        "http://schema.org/contentUrl": [
+          {
+            "@id": "https://hdl.handle.net/11022/0000-0007-DABA-2@AM_train_split_3.txt"
+          }
+        ],
+        "http://schema.org/encodingFormat": [
+          {
+            "@value": "text/plain"
+          }
+        ],
+        "http://schema.org/identifier": [
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "md5: cc4ed0b92fa21d7cd45b333508c9e0c2 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "md5"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "cc4ed0b92fa21d7cd45b333508c9e0c2"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha1: "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha1"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha256: 657a0b9363d6c82fb1444ea0ef998109c748694a "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha256"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "657a0b9363d6c82fb1444ea0ef998109c748694a"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@type": [
+          "http://schema.org/DataDownload"
+        ],
+        "http://schema.org/contentSize": [
+          {
+            "@value": "1183275"
+          }
+        ],
+        "http://schema.org/contentUrl": [
+          {
+            "@id": "https://hdl.handle.net/11022/0000-0007-DABA-2@AM_train_split_2.txt"
+          }
+        ],
+        "http://schema.org/encodingFormat": [
+          {
+            "@value": "text/plain"
+          }
+        ],
+        "http://schema.org/identifier": [
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "md5: 8f51116dfd101eab5e983872eadbdd68 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "md5"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "8f51116dfd101eab5e983872eadbdd68"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha1: "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha1"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha256: 82858c9169cfc0b9a8a706d38b60b896ea7c6da9 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha256"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "82858c9169cfc0b9a8a706d38b60b896ea7c6da9"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@type": [
+          "http://schema.org/DataDownload"
+        ],
+        "http://schema.org/contentSize": [
+          {
+            "@value": "134469"
+          }
+        ],
+        "http://schema.org/contentUrl": [
+          {
+            "@id": "https://hdl.handle.net/11022/0000-0007-DABA-2@AM_dev_split_3.txt"
+          }
+        ],
+        "http://schema.org/encodingFormat": [
+          {
+            "@value": "text/plain"
+          }
+        ],
+        "http://schema.org/identifier": [
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "md5: 885c37f74798d30362f97ab6aa9801d6 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "md5"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "885c37f74798d30362f97ab6aa9801d6"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha1: "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha1"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha256: 978cba51c8e87cdcb513d4ba43c97bf31e4e1b1a "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha256"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "978cba51c8e87cdcb513d4ba43c97bf31e4e1b1a"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@type": [
+          "http://schema.org/DataDownload"
+        ],
+        "http://schema.org/contentSize": [
+          {
+            "@value": "132043"
+          }
+        ],
+        "http://schema.org/contentUrl": [
+          {
+            "@id": "https://hdl.handle.net/11022/0000-0007-DABA-2@AM_dev_split_2.txt"
+          }
+        ],
+        "http://schema.org/encodingFormat": [
+          {
+            "@value": "text/plain"
+          }
+        ],
+        "http://schema.org/identifier": [
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "md5: 511aa886d8f722f8855dadafbb76e072 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "md5"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "511aa886d8f722f8855dadafbb76e072"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha1: "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha1"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha256: 656ffee42deada2d1c4ad3f558c03f64bbe74bdb "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha256"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "656ffee42deada2d1c4ad3f558c03f64bbe74bdb"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@type": [
+          "http://schema.org/DataDownload"
+        ],
+        "http://schema.org/contentSize": [
+          {
+            "@value": "1192811"
+          }
+        ],
+        "http://schema.org/contentUrl": [
+          {
+            "@id": "https://hdl.handle.net/11022/0000-0007-DABA-2@AM_train_split_5.txt"
+          }
+        ],
+        "http://schema.org/encodingFormat": [
+          {
+            "@value": "text/plain"
+          }
+        ],
+        "http://schema.org/identifier": [
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "md5: fd9d4300df5aae2a4b85007f9d9b78c8 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "md5"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "fd9d4300df5aae2a4b85007f9d9b78c8"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha1: "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha1"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha256: 397e9a4968a48dcf65c8d1b7a8cb3ca05802f05a "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha256"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "397e9a4968a48dcf65c8d1b7a8cb3ca05802f05a"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@type": [
+          "http://schema.org/DataDownload"
+        ],
+        "http://schema.org/contentSize": [
+          {
+            "@value": "132946"
+          }
+        ],
+        "http://schema.org/contentUrl": [
+          {
+            "@id": "https://hdl.handle.net/11022/0000-0007-DABA-2@AM_dev_split_0.txt"
+          }
+        ],
+        "http://schema.org/encodingFormat": [
+          {
+            "@value": "text/plain"
+          }
+        ],
+        "http://schema.org/identifier": [
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "md5: 6213f29ba052896d53ca3c44d1695df4 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "md5"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "6213f29ba052896d53ca3c44d1695df4"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha1: "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha1"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha256: 1ea48f051e654a16eda596ef272a3e8846b79673 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha256"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "1ea48f051e654a16eda596ef272a3e8846b79673"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@type": [
+          "http://schema.org/DataDownload"
+        ],
+        "http://schema.org/contentSize": [
+          {
+            "@value": "94972"
+          }
+        ],
+        "http://schema.org/contentUrl": [
+          {
+            "@id": "https://hdl.handle.net/11022/0000-0007-DABA-2@GerCo_dataset.txt"
+          }
+        ],
+        "http://schema.org/encodingFormat": [
+          {
+            "@value": "text/plain"
+          }
+        ],
+        "http://schema.org/identifier": [
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "md5: 82141d8d94397a383a9fc44cc1966f69 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "md5"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "82141d8d94397a383a9fc44cc1966f69"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha1: "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha1"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha256: 4b423b6523614a84d1184ebe13f43c381122130e "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha256"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "4b423b6523614a84d1184ebe13f43c381122130e"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@type": [
+          "http://schema.org/DataDownload"
+        ],
+        "http://schema.org/contentSize": [
+          {
+            "@value": "133626"
+          }
+        ],
+        "http://schema.org/contentUrl": [
+          {
+            "@id": "https://hdl.handle.net/11022/0000-0007-DABA-2@AM_dev_split_1.txt"
+          }
+        ],
+        "http://schema.org/encodingFormat": [
+          {
+            "@value": "text/plain"
+          }
+        ],
+        "http://schema.org/identifier": [
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "md5: 4c39be3a3246ebae18e166f6b486513f "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "md5"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "4c39be3a3246ebae18e166f6b486513f"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha1: "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha1"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha256: e884e420f330c0f05bae8b81e886e9605f8448b1 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha256"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "e884e420f330c0f05bae8b81e886e9605f8448b1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@type": [
+          "http://schema.org/DataDownload"
+        ],
+        "http://schema.org/contentSize": [
+          {
+            "@value": "1220648"
+          }
+        ],
+        "http://schema.org/contentUrl": [
+          {
+            "@id": "https://hdl.handle.net/11022/0000-0007-DABA-2@AM_train_split_4.txt"
+          }
+        ],
+        "http://schema.org/encodingFormat": [
+          {
+            "@value": "text/plain"
+          }
+        ],
+        "http://schema.org/identifier": [
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "md5: e7b9d0a684cfde5db5a89c21be3f13b2 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "md5"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "e7b9d0a684cfde5db5a89c21be3f13b2"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha1: "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha1"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha256: d7ff3821caf55c50509728bc62590b50cf7d5992 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha256"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "d7ff3821caf55c50509728bc62590b50cf7d5992"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@type": [
+          "http://schema.org/DataDownload"
+        ],
+        "http://schema.org/contentSize": [
+          {
+            "@value": "573012"
+          }
+        ],
+        "http://schema.org/contentUrl": [
+          {
+            "@id": "https://hdl.handle.net/11022/0000-0007-DABA-2@train_split_3.txt"
+          }
+        ],
+        "http://schema.org/encodingFormat": [
+          {
+            "@value": "text/plain"
+          }
+        ],
+        "http://schema.org/identifier": [
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "md5: a170310f2897adb81b93fec8ca49a915 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "md5"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "a170310f2897adb81b93fec8ca49a915"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha1: "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha1"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha256: b3515bdd668f62a8ac825e4714ded13d50654e59 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha256"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "b3515bdd668f62a8ac825e4714ded13d50654e59"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@type": [
+          "http://schema.org/DataDownload"
+        ],
+        "http://schema.org/contentSize": [
+          {
+            "@value": "560986"
+          }
+        ],
+        "http://schema.org/contentUrl": [
+          {
+            "@id": "https://hdl.handle.net/11022/0000-0007-DABA-2@train_split_2.txt"
+          }
+        ],
+        "http://schema.org/encodingFormat": [
+          {
+            "@value": "text/plain"
+          }
+        ],
+        "http://schema.org/identifier": [
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "md5: c054737a858b7ceb9295f8ddf57de692 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "md5"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "c054737a858b7ceb9295f8ddf57de692"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha1: "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha1"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha256: f18f1d76d8bab9c0fac52942b533b6d338b69093 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha256"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "f18f1d76d8bab9c0fac52942b533b6d338b69093"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@type": [
+          "http://schema.org/DataDownload"
+        ],
+        "http://schema.org/contentSize": [
+          {
+            "@value": "566893"
+          }
+        ],
+        "http://schema.org/contentUrl": [
+          {
+            "@id": "https://hdl.handle.net/11022/0000-0007-DABA-2@train_split_0.txt"
+          }
+        ],
+        "http://schema.org/encodingFormat": [
+          {
+            "@value": "text/plain"
+          }
+        ],
+        "http://schema.org/identifier": [
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "md5: 2ae1a5e381b6ac7c00ec80f0f15c0ed6 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "md5"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "2ae1a5e381b6ac7c00ec80f0f15c0ed6"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha1: "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha1"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha256: de62d1d7f03b86d115dc41654c08ace3f50b9b70 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha256"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "de62d1d7f03b86d115dc41654c08ace3f50b9b70"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@type": [
+          "http://schema.org/DataDownload"
+        ],
+        "http://schema.org/contentSize": [
+          {
+            "@value": "565878"
+          }
+        ],
+        "http://schema.org/contentUrl": [
+          {
+            "@id": "https://hdl.handle.net/11022/0000-0007-DABA-2@train_split_1.txt"
+          }
+        ],
+        "http://schema.org/encodingFormat": [
+          {
+            "@value": "text/plain"
+          }
+        ],
+        "http://schema.org/identifier": [
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "md5: 40b429aab475755c13d554e1c6279fbb "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "md5"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "40b429aab475755c13d554e1c6279fbb"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha1: "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha1"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha256: 8e01368fbbd8d9f9183a950bbdb4b203760df13e "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha256"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "8e01368fbbd8d9f9183a950bbdb4b203760df13e"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@type": [
+          "http://schema.org/DataDownload"
+        ],
+        "http://schema.org/contentSize": [
+          {
+            "@value": "4962"
+          }
+        ],
+        "http://schema.org/contentUrl": [
+          {
+            "@id": "https://hdl.handle.net/11022/0000-0007-DABA-2@GerCo_dataset_readme.txt"
+          }
+        ],
+        "http://schema.org/encodingFormat": [
+          {
+            "@value": "text/plain"
+          }
+        ],
+        "http://schema.org/identifier": [
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "md5: 597250861aaa6bcbf431b35c9018ad9f "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "md5"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "597250861aaa6bcbf431b35c9018ad9f"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha1: "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha1"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha256: 6b3181f387c77e9ae7d60cf359f78e58b2c2931c "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha256"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "6b3181f387c77e9ae7d60cf359f78e58b2c2931c"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@type": [
+          "http://schema.org/DataDownload"
+        ],
+        "http://schema.org/contentSize": [
+          {
+            "@value": "566436"
+          }
+        ],
+        "http://schema.org/contentUrl": [
+          {
+            "@id": "https://hdl.handle.net/11022/0000-0007-DABA-2@train_split_5.txt"
+          }
+        ],
+        "http://schema.org/encodingFormat": [
+          {
+            "@value": "text/plain"
+          }
+        ],
+        "http://schema.org/identifier": [
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "md5: 347edb364b3fffa09ff425e659e3918f "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "md5"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "347edb364b3fffa09ff425e659e3918f"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha1: "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha1"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha256: 7bf456b7cd2899282bc97ec1fa7a34c9a2ac66dd "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha256"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "7bf456b7cd2899282bc97ec1fa7a34c9a2ac66dd"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@type": [
+          "http://schema.org/DataDownload"
+        ],
+        "http://schema.org/contentSize": [
+          {
+            "@value": "578531"
+          }
+        ],
+        "http://schema.org/contentUrl": [
+          {
+            "@id": "https://hdl.handle.net/11022/0000-0007-DABA-2@train_split_4.txt"
+          }
+        ],
+        "http://schema.org/encodingFormat": [
+          {
+            "@value": "text/plain"
+          }
+        ],
+        "http://schema.org/identifier": [
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "md5: 6250ae5891a862918c74a40830aa5281 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "md5"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "6250ae5891a862918c74a40830aa5281"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha1: "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha1"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha256: 593595413d3009e1551a4afe1ff2b2155e444ff3 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha256"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "593595413d3009e1551a4afe1ff2b2155e444ff3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@type": [
+          "http://schema.org/DataDownload"
+        ],
+        "http://schema.org/contentSize": [
+          {
+            "@value": "63916"
+          }
+        ],
+        "http://schema.org/contentUrl": [
+          {
+            "@id": "https://hdl.handle.net/11022/0000-0007-DABA-2@dev_split_3.txt"
+          }
+        ],
+        "http://schema.org/encodingFormat": [
+          {
+            "@value": "text/plain"
+          }
+        ],
+        "http://schema.org/identifier": [
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "md5: 9a15a7b830e708a54a05adf92a370f62 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "md5"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "9a15a7b830e708a54a05adf92a370f62"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha1: "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha1"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha256: 9b11a3029138ad549de72b441c8fc61c82dc4737 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha256"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "9b11a3029138ad549de72b441c8fc61c82dc4737"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@type": [
+          "http://schema.org/DataDownload"
+        ],
+        "http://schema.org/contentSize": [
+          {
+            "@value": "131364"
+          }
+        ],
+        "http://schema.org/contentUrl": [
+          {
+            "@id": "https://hdl.handle.net/11022/0000-0007-DABA-2@test_split_5.txt"
+          }
+        ],
+        "http://schema.org/encodingFormat": [
+          {
+            "@value": "text/plain"
+          }
+        ],
+        "http://schema.org/identifier": [
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "md5: 7740c1be832d9d1d0bfb7bb3b603b77f "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "md5"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "7740c1be832d9d1d0bfb7bb3b603b77f"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha1: "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha1"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha256: 897b4872fd4d3f61e39a4579b02895160d69c439 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha256"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "897b4872fd4d3f61e39a4579b02895160d69c439"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@type": [
+          "http://schema.org/DataDownload"
+        ],
+        "http://schema.org/contentSize": [
+          {
+            "@value": "115615"
+          }
+        ],
+        "http://schema.org/contentUrl": [
+          {
+            "@id": "https://hdl.handle.net/11022/0000-0007-DABA-2@test_split_4.txt"
+          }
+        ],
+        "http://schema.org/encodingFormat": [
+          {
+            "@value": "text/plain"
+          }
+        ],
+        "http://schema.org/identifier": [
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "md5: 6aad48f8252d29d62a7ffd730012972f "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "md5"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "6aad48f8252d29d62a7ffd730012972f"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha1: "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha1"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha256: 84a927ec3e5f18f5b1da2a0c64cbe69aebc4b3ce "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha256"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "84a927ec3e5f18f5b1da2a0c64cbe69aebc4b3ce"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@type": [
+          "http://schema.org/DataDownload"
+        ],
+        "http://schema.org/contentSize": [
+          {
+            "@value": "62227"
+          }
+        ],
+        "http://schema.org/contentUrl": [
+          {
+            "@id": "https://hdl.handle.net/11022/0000-0007-DABA-2@dev_split_2.txt"
+          }
+        ],
+        "http://schema.org/encodingFormat": [
+          {
+            "@value": "text/plain"
+          }
+        ],
+        "http://schema.org/identifier": [
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "md5: cc6d74310da48f33b370f4e68656ec11 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "md5"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "cc6d74310da48f33b370f4e68656ec11"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha1: "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha1"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha256: bec81d045551be5333230aaf62b3d3482a524f83 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha256"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "bec81d045551be5333230aaf62b3d3482a524f83"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@type": [
+          "http://schema.org/DataDownload"
+        ],
+        "http://schema.org/contentSize": [
+          {
+            "@value": "63283"
+          }
+        ],
+        "http://schema.org/contentUrl": [
+          {
+            "@id": "https://hdl.handle.net/11022/0000-0007-DABA-2@dev_split_0.txt"
+          }
+        ],
+        "http://schema.org/encodingFormat": [
+          {
+            "@value": "text/plain"
+          }
+        ],
+        "http://schema.org/identifier": [
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "md5: 133cb42265d6d76a2a1f822e2c8a5d4d "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "md5"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "133cb42265d6d76a2a1f822e2c8a5d4d"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha1: "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha1"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha256: c4f2ce276e9855d14bf26825436ab35429b946e9 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha256"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "c4f2ce276e9855d14bf26825436ab35429b946e9"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@type": [
+          "http://schema.org/DataDownload"
+        ],
+        "http://schema.org/contentSize": [
+          {
+            "@value": "65216"
+          }
+        ],
+        "http://schema.org/contentUrl": [
+          {
+            "@id": "https://hdl.handle.net/11022/0000-0007-DABA-2@dev_split_1.txt"
+          }
+        ],
+        "http://schema.org/encodingFormat": [
+          {
+            "@value": "text/plain"
+          }
+        ],
+        "http://schema.org/identifier": [
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "md5: 3531498a39f0c8f74ac861ef8337ac1b "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "md5"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "3531498a39f0c8f74ac861ef8337ac1b"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha1: "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha1"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha256: e5fd754be775d3fdd2ce403a53d06d41600dc99f "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha256"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "e5fd754be775d3fdd2ce403a53d06d41600dc99f"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@type": [
+          "http://schema.org/DataDownload"
+        ],
+        "http://schema.org/contentSize": [
+          {
+            "@value": "60376"
+          }
+        ],
+        "http://schema.org/contentUrl": [
+          {
+            "@id": "https://hdl.handle.net/11022/0000-0007-DABA-2@dev_split_5.txt"
+          }
+        ],
+        "http://schema.org/encodingFormat": [
+          {
+            "@value": "text/plain"
+          }
+        ],
+        "http://schema.org/identifier": [
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "md5: 107c9178c2b95ec1b349dca03530d984 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "md5"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "107c9178c2b95ec1b349dca03530d984"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha1: "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha1"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha256: 86f174e45db229d8d879e9fd5803e11a9d93d551 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha256"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "86f174e45db229d8d879e9fd5803e11a9d93d551"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@type": [
+          "http://schema.org/DataDownload"
+        ],
+        "http://schema.org/contentSize": [
+          {
+            "@value": "121248"
+          }
+        ],
+        "http://schema.org/contentUrl": [
+          {
+            "@id": "https://hdl.handle.net/11022/0000-0007-DABA-2@test_split_3.txt"
+          }
+        ],
+        "http://schema.org/encodingFormat": [
+          {
+            "@value": "text/plain"
+          }
+        ],
+        "http://schema.org/identifier": [
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "md5: c757d3f734080e07eebe1d8230b04853 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "md5"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "c757d3f734080e07eebe1d8230b04853"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha1: "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha1"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha256: d75c6c7d129ad185edd7f8dc10f62311c15f5adb "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha256"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "d75c6c7d129ad185edd7f8dc10f62311c15f5adb"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@type": [
+          "http://schema.org/DataDownload"
+        ],
+        "http://schema.org/contentSize": [
+          {
+            "@value": "134963"
+          }
+        ],
+        "http://schema.org/contentUrl": [
+          {
+            "@id": "https://hdl.handle.net/11022/0000-0007-DABA-2@test_split_2.txt"
+          }
+        ],
+        "http://schema.org/encodingFormat": [
+          {
+            "@value": "text/plain"
+          }
+        ],
+        "http://schema.org/identifier": [
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "md5: 8095a5ad9f473606fa57d9bd5fdbbcdc "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "md5"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "8095a5ad9f473606fa57d9bd5fdbbcdc"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha1: "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha1"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha256: cf02306a3727b4e1627e8fb0d2260bdc42cc5203 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha256"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "cf02306a3727b4e1627e8fb0d2260bdc42cc5203"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@type": [
+          "http://schema.org/DataDownload"
+        ],
+        "http://schema.org/contentSize": [
+          {
+            "@value": "64030"
+          }
+        ],
+        "http://schema.org/contentUrl": [
+          {
+            "@id": "https://hdl.handle.net/11022/0000-0007-DABA-2@dev_split_4.txt"
+          }
+        ],
+        "http://schema.org/encodingFormat": [
+          {
+            "@value": "text/plain"
+          }
+        ],
+        "http://schema.org/identifier": [
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "md5: a63ea88997c40e6c738dcf7fb91446f3 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "md5"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "a63ea88997c40e6c738dcf7fb91446f3"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha1: "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha1"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha256: 67563aa327bef0dfd142799a628833029382c9b7 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha256"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "67563aa327bef0dfd142799a628833029382c9b7"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@type": [
+          "http://schema.org/DataDownload"
+        ],
+        "http://schema.org/contentSize": [
+          {
+            "@value": "128000"
+          }
+        ],
+        "http://schema.org/contentUrl": [
+          {
+            "@id": "https://hdl.handle.net/11022/0000-0007-DABA-2@test_split_0.txt"
+          }
+        ],
+        "http://schema.org/encodingFormat": [
+          {
+            "@value": "text/plain"
+          }
+        ],
+        "http://schema.org/identifier": [
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "md5: b6f4e78e422d5d6bb76513c1066781f4 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "md5"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "b6f4e78e422d5d6bb76513c1066781f4"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha1: "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha1"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha256: 5e16a8f7ad877434bceb1ea827c618db7ee05f96 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha256"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "5e16a8f7ad877434bceb1ea827c618db7ee05f96"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@type": [
+          "http://schema.org/DataDownload"
+        ],
+        "http://schema.org/contentSize": [
+          {
+            "@value": "127082"
+          }
+        ],
+        "http://schema.org/contentUrl": [
+          {
+            "@id": "https://hdl.handle.net/11022/0000-0007-DABA-2@test_split_1.txt"
+          }
+        ],
+        "http://schema.org/encodingFormat": [
+          {
+            "@value": "text/plain"
+          }
+        ],
+        "http://schema.org/identifier": [
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "md5: 64e7c945e343b9b2457fff493ebb0b97 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "md5"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "64e7c945e343b9b2457fff493ebb0b97"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha1: "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha1"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha256: 0c7523aee152e8c102c8525d1a3c59a3fd47fbf0 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha256"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "0c7523aee152e8c102c8525d1a3c59a3fd47fbf0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@type": [
+          "http://schema.org/DataDownload"
+        ],
+        "http://schema.org/contentSize": [
+          {
+            "@value": "269138"
+          }
+        ],
+        "http://schema.org/contentUrl": [
+          {
+            "@id": "https://hdl.handle.net/11022/0000-0007-DABA-2@AM_test_split_0.txt"
+          }
+        ],
+        "http://schema.org/encodingFormat": [
+          {
+            "@value": "text/plain"
+          }
+        ],
+        "http://schema.org/identifier": [
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "md5: c525fccf089dd995664b4a19aef2f387 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "md5"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "c525fccf089dd995664b4a19aef2f387"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha1: "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha1"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha256: efd7067fc3d9c2d50b1a66b710b28d0fc806252e "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha256"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "efd7067fc3d9c2d50b1a66b710b28d0fc806252e"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@type": [
+          "http://schema.org/DataDownload"
+        ],
+        "http://schema.org/contentSize": [
+          {
+            "@value": "271042"
+          }
+        ],
+        "http://schema.org/contentUrl": [
+          {
+            "@id": "https://hdl.handle.net/11022/0000-0007-DABA-2@AM_test_split_1.txt"
+          }
+        ],
+        "http://schema.org/encodingFormat": [
+          {
+            "@value": "text/plain"
+          }
+        ],
+        "http://schema.org/identifier": [
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "md5: c5a9fc1af7920052940ce0a27266af10 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "md5"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "c5a9fc1af7920052940ce0a27266af10"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha1: "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha1"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha256: 6d39b93fb7abd5911f826551ee63dae280860c48 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha256"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "6d39b93fb7abd5911f826551ee63dae280860c48"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@type": [
+          "http://schema.org/DataDownload"
+        ],
+        "http://schema.org/contentSize": [
+          {
+            "@value": "262892"
+          }
+        ],
+        "http://schema.org/contentUrl": [
+          {
+            "@id": "https://hdl.handle.net/11022/0000-0007-DABA-2@AM_test_split_3.txt"
+          }
+        ],
+        "http://schema.org/encodingFormat": [
+          {
+            "@value": "text/plain"
+          }
+        ],
+        "http://schema.org/identifier": [
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "md5: 374050eb57dc40c0b459c204df6b52e1 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "md5"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "374050eb57dc40c0b459c204df6b52e1"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha1: "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha1"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha256: e58668f19b464d524da54f7f0a488b86afa73fed "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha256"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "e58668f19b464d524da54f7f0a488b86afa73fed"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@type": [
+          "http://schema.org/DataDownload"
+        ],
+        "http://schema.org/contentSize": [
+          {
+            "@value": "282202"
+          }
+        ],
+        "http://schema.org/contentUrl": [
+          {
+            "@id": "https://hdl.handle.net/11022/0000-0007-DABA-2@AM_test_split_2.txt"
+          }
+        ],
+        "http://schema.org/encodingFormat": [
+          {
+            "@value": "text/plain"
+          }
+        ],
+        "http://schema.org/identifier": [
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "md5: ee46d0efa35f8e49ccb1fb3c4027a9d8 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "md5"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "ee46d0efa35f8e49ccb1fb3c4027a9d8"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha1: "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha1"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha256: 446daf030ae753847c0de9fb11c296a403843978 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha256"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "446daf030ae753847c0de9fb11c296a403843978"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@type": [
+          "http://schema.org/DataDownload"
+        ],
+        "http://schema.org/contentSize": [
+          {
+            "@value": "271920"
+          }
+        ],
+        "http://schema.org/contentUrl": [
+          {
+            "@id": "https://hdl.handle.net/11022/0000-0007-DABA-2@AM_test_split_5.txt"
+          }
+        ],
+        "http://schema.org/encodingFormat": [
+          {
+            "@value": "text/plain"
+          }
+        ],
+        "http://schema.org/identifier": [
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "md5: d6e41f81d8226afa0f13280976135cab "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "md5"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "d6e41f81d8226afa0f13280976135cab"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha1: "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha1"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha256: 22fa7fdd72a6828f09371357f9987db55ac5aad8 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha256"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "22fa7fdd72a6828f09371357f9987db55ac5aad8"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@type": [
+          "http://schema.org/DataDownload"
+        ],
+        "http://schema.org/contentSize": [
+          {
+            "@value": "241226"
+          }
+        ],
+        "http://schema.org/contentUrl": [
+          {
+            "@id": "https://hdl.handle.net/11022/0000-0007-DABA-2@AM_test_split_4.txt"
+          }
+        ],
+        "http://schema.org/encodingFormat": [
+          {
+            "@value": "text/plain"
+          }
+        ],
+        "http://schema.org/identifier": [
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "md5: e1fb9d98bdf7004a70df15ab8e0512c9 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "md5"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "e1fb9d98bdf7004a70df15ab8e0512c9"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha1: "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha1"
+              }
+            ]
+          },
+          {
+            "@type": [
+              "http://schema.org/PropertyValue"
+            ],
+            "http://schema.org/identifier": [
+              {
+                "@value": "sha256: 9969f784c37a7b7a4bfff13cd6564896893f5c46 "
+              }
+            ],
+            "http://schema.org/propertyID": [
+              {
+                "@value": "sha256"
+              }
+            ],
+            "http://schema.org/value": [
+              {
+                "@value": "9969f784c37a7b7a4bfff13cd6564896893f5c46"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "http://schema.org/funder": [
+      {
+        "@value": "Deutsche Forschungsgemeinschaft (DFG)"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@value": "https://hdl.handle.net/11022/0000-0007-DABA-2"
+      }
+    ],
+    "http://schema.org/includedInDataCatalog": [
+      {
+        "@value": "http://hdl.handle.net/11022/0000-0007-DABA-2"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@language": "en",
+        "@value": "German adjective-noun phrases"
+      },
+      {
+        "@language": "en",
+        "@value": "lexical semantics"
+      },
+      {
+        "@language": "en",
+        "@value": "collocations"
+      }
+    ],
+    "http://schema.org/license": [
+      {
+        "@type": [
+          "http://schema.org/CreativeWork"
+        ],
+        "http://schema.org/name": [
+          {
+            "@value": "CC-BY"
+          }
+        ]
+      }
+    ],
+    "http://schema.org/locationCreated": [
+      {
+        "@type": [
+          "http://schema.org/Place"
+        ],
+        "http://schema.org/address": [
+          {
+            "@type": [
+              "http://schema.org/PostalAddress"
+            ],
+            "http://schema.org/addressCountry": [
+              {
+                "@value": "DE"
+              }
+            ],
+            "http://schema.org/name": [
+              {
+                "@value": "Seminar für Sprachwissenschaft, Wilhelmstr. 19, D-72074 Tübingen"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "GerCo_dataset"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://hdl.handle.net/11022/0000-0007-DABA-2"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://hdl.handle.net/11022/0000-0007-DABA-2"
+      }
+    ]
+  }
+]

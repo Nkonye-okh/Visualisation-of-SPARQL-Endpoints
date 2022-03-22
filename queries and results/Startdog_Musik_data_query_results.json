@@ -1,0 +1,71 @@
+{
+  "head": {
+    "vars": [
+      "s"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "s": {
+          "type": "uri",
+          "value": "http://api.stardog.com/David_Bowie"
+        }
+      },
+      {
+        "s": {
+          "type": "uri",
+          "value": "http://api.stardog.com/Person"
+        }
+      },
+      {
+        "s": {
+          "type": "uri",
+          "value": "http://api.stardog.com/Brian_Eno"
+        }
+      },
+      {
+        "s": {
+          "type": "uri",
+          "value": "http://api.stardog.com/Brian_May"
+        }
+      },
+      {
+        "s": {
+          "type": "uri",
+          "value": "http://api.stardog.com/Bass_Brothers"
+        }
+      },
+      {
+        "s": {
+          "type": "uri",
+          "value": "http://api.stardog.com/Eminem"
+        }
+      },
+      {
+        "s": {
+          "type": "uri",
+          "value": "http://api.stardog.com/Brian_Wilson"
+        }
+      },
+      {
+        "s": {
+          "type": "uri",
+          "value": "http://api.stardog.com/Bob_Regan"
+        }
+      },
+      {
+        "s": {
+          "type": "uri",
+          "value": "http://api.stardog.com/Ed_Hill"
+        }
+      },
+      {
+        "s": {
+          "type": "uri",
+          "value": "http://api.stardog.com/Bobby_Robinson_(record_producer)"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+CONSTRUCT {
+  ?iri ?predicate ?object .
+  ?object a ?object_type .
+  ?object <tag:stardog:studio:label> ?object_label_0 .
+  ?object rdfs:label ?object_label_1 .
+  ?object <http://purl.org/dc/elements/1.1/title> ?object_label_2 .
+  ?subject ?predicate_2 ?iri .
+  ?subject a ?subject_type .
+  ?subject <tag:stardog:studio:label> ?subject_label_0 .
+  ?subject rdfs:label ?subject_label_1 .
+  ?subject <http://purl.org/dc/elements/1.1/title> ?subject_label_2 .
+} WHERE {
+  VALUES (?iri) {
+    (<_:bnode_d593eb40_928e_403a_b292_bdfdd52d1808_957>)
+  }
+  { 
+    ?iri ?predicate ?object . 
+    OPTIONAL { ?object a ?object_type . }
+    OPTIONAL { ?object <tag:stardog:studio:label> ?object_label_0 . }
+    OPTIONAL { ?object rdfs:label ?object_label_1 . }
+    OPTIONAL { ?object <http://purl.org/dc/elements/1.1/title> ?object_label_2 . }
+  }
+  UNION {
+    ?subject ?predicate_2 ?iri .
+    OPTIONAL { ?subject a ?subject_type . }
+    OPTIONAL { ?subject <tag:stardog:studio:label> ?subject_label_0 . }
+    OPTIONAL { ?subject rdfs:label ?subject_label_1 . }
+    OPTIONAL { ?subject <http://purl.org/dc/elements/1.1/title> ?subject_label_2 . }
+  }
+}
+LIMIT 1000

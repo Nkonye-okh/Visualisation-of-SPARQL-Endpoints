@@ -1,0 +1,6 @@
+PREFIX schema:<http://schema.org/>
+SELECT  ?creator ?givenName ?familyName
+WHERE {
+?creator schema:givenName ?givenName ; 
+         schema:familyName ?familyName 
+  }

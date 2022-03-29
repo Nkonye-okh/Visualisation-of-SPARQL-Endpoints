@@ -1,0 +1,35 @@
+# Note that ?node is the node you clicked and must be used in the query
+PREFIX rank: <http://www.ontotext.com/owlim/RDFRank#>
+PREFIX onto: <http://www.ontotext.com/>
+
+PREFIX schema: <http://schema.org/>
+CONSTRUCT {
+    # The triples that will be added to the visual graph when you expand airports
+    ?node onto:hasFlightFromWithAirline ?airline1 .
+    ?node onto:hasFlightToWithAirline ?airline2 .
+
+    # The triples to be added when you expand airlines
+    ?airport1 onto:hasFlightFromWithAirline ?node .
+    ?airport2 onto:hasFlightToWithAirline ?node .
+} WHERE {
+    {
+        # Incoming flights for airport
+        ?route <http://openflights.org/resource/route/sourceId> ?node .
+        ?route <http://openflights.org/resource/route/airlineId> ?airline1 .
+
+    } UNION {
+        # Outgoing flights for airport
+        ?route <http://openflights.org/resource/route/destinationId> ?node .
+        ?route <http://openflights.org/resource/route/airlineId> ?airline2 .
+    } UNION
+    {
+        # Incoming flights for airline
+        ?route <http://openflights.org/resource/route/sourceId> ?airport1 .
+        ?route <http://openflights.org/resource/route/airlineId> ?node .
+
+    } UNION {
+        # Outgoing flights for airline
+        ?route <http://openflights.org/resource/route/destinationId> ?airport2 .
+        ?route <http://openflights.org/resource/route/airlineId> ?node .
+    }
+}

@@ -1,6 +1,6 @@
 # Visual Exploitation of SPARQL Endpoints
 
-Daria Schmidt and Nkonye Gbadegoye 
+Nkonye Gbadegoye and Daria Schmidt
 
 Eberhard Karl University Tübingen
 
